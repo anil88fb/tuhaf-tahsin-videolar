@@ -15,6 +15,7 @@ Otomasyon her bölümden sonra buraya bir satır ekler. "Kullanılan konu no" s�
 | 2026-11-24 | TikTok 22:15 | 3 (tekrar) | Ya Yerçekimi Kapansaydı? (TikTok) | bolumler/03-yercekimi-salteri.mp4 | TikTok planlandı | Metricool gönderisi, elle planlandı |
 | 2026-11-24 | TikTok 23:00 | 4 (tekrar) | Ya Kediler Konuşabilseydi? (TikTok) | bolumler/04-kedi-tasmasi.mp4 | TikTok planlandı | Metricool gönderisi, elle planlandı |
 | 2026-11-24 | TikTok 23:45 | 5 (tekrar) | Ya Herkes Aynı Anda Zıplasaydı? (TikTok) | bolumler/05-zipla-duduk.mp4 | TikTok planlandı | Metricool gönderisi, elle planlandı |
+| 2026-11-25 | 16:00 | 6 | (üretiliyor) Ya Hiç Unutmasaydık? | bolumler/06-unutmayan-gozluk.mp4 | hazırlanıyor | otomatik; konu rezervasyonu |
 
 ## Ek konular
 (Konu listesi bitmeye yaklaşınca otomasyon yeni konuları buraya, konular.md ile aynı tablo biçiminde ekler.)
